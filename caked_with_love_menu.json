@@ -1,0 +1,76 @@
+{
+  "Teacakes": {
+    "Banana Walnut (400gm)": 450,
+    "Vanilla Choco Chip (400gm)": 410,
+    "Chocolate Choco Chip (400gm)": 415,
+    "Vanilla Almond (400gm)": 470,
+    "Banana Almond (400gm)": 435,
+    "Honey Almond (400gm)": 435,
+    "Rich Chocolate Devil (400gm)": 415,
+    "Spongy Fruit Cake (400gm)": 415,
+    "Spiced Carrot & Honey (400gm)": 415,
+    "Lemon-Blueberry/Cranberry (400gm)": 445,
+    "Orange-Chocolate (500gm)": 600
+  },
+  "Cakes": {
+    "Vanilla Fresh Fruit (500gm)": 710,
+    "Black Forest (500gm)": 680,
+    "Vanilla Pineapple (500gm)": 680,
+    "Rasmalai Cake (500gm)": 710,
+    "Red Velvet Cake (500gm)": 785,
+    "Vanilla Butterscotch (500gm)": 650,
+    "Blueberry Cake (500gm)": 750,
+    "Strawberry Cake (500gm)": 750,
+    "Paan Cake (500gm)": 700,
+    "Oreo Chocolate Cake (500gm)": 690,
+    "KitKat Cake (500gm)": 690,
+    "Chocolate Truffle (500gm)": 710,
+    "Belgian Chocolate Truffle (500gm)": 850,
+    "Nutella Brownie Cake (500gm)": 650,
+    "Chocolate Mousse Cake (500gm)": 650,
+    "Ferrero Rocher Cake (500gm)": 800
+  },
+  "Cheesecakes": {
+    "Blueberry Cheesecake (500gm)": 1050,
+    "Strawberry Cheesecake (500gm)": 1050,
+    "Rasmalai Cheesecake (500gm)": 1050,
+    "Nutella Cheesecake (500gm)": 1050,
+    "Red Velvet Cheesecake (500gm)": 1050,
+    "Mango Cheesecake (500gm)": 1050,
+    "New York Cheesecake (500gm)": 1200
+  },
+  "Cupcakes (Pack of 4)": {
+    "Chocolate Ganache": 330,
+    "Red Velvet": 360,
+    "Vanilla": 295,
+    "Lemon Zest": 330,
+    "Carrot": 330,
+    "Cherry": 330,
+    "Strawberry": 330,
+    "Blueberry": 330
+  },
+  "Cupcakes (Pack of 6)": {
+    "Chocolate Ganache": 495,
+    "Red Velvet": 540,
+    "Vanilla": 440,
+    "Lemon Zest": 495,
+    "Carrot": 495,
+    "Cherry": 495,
+    "Strawberry": 495,
+    "Blueberry": 495
+  },
+  "Donuts (Pack of 4)": {
+    "Chocolate Overload": 380,
+    "Oreo": 380,
+    "Nutella": 400,
+    "Chocolate Rainbow": 400,
+    "Lotus Biscoff": 400
+  },
+  "Donuts (Pack of 6)": {
+    "Chocolate Overload": 570,
+    "Oreo": 570,
+    "Nutella": 600,
+    "Chocolate Rainbow": 600,
+    "Lotus Biscoff": 600
+  }
+}
